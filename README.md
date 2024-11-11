@@ -5,10 +5,10 @@ A curated list of LLM powered AI Agents in Biomedical Research. Medical Image An
 The emergence of AI agents in biomedical research marks a significant paradigm shift in how we approach complex healthcare and biological challenges. While foundation models (language, vision, and multimodal) have shown remarkable capabilities in medical imaging, text analysis, and genomics, they face three major limitations: insufficient biomedical training data compared to general domains; the inherently open-ended nature of biomedical research questions where hallucination risks pose serious concerns; and their inability to support dynamic, iterative research workflows that require continuous feedback and adaptation. To address these challenges, LLM-powered AI agents have emerged as a promising solution, decomposing complex biomedical tasks into modular components handled by specialized foundation models, while using a master model to orchestrate the entire workflow and maintain dynamic reasoning chains. This approach has demonstrated success in various applications including chemical research automation, medical decision support, and scientific literature analysis. This repository collects and organizes key research papers and developments (up to November 2024) in biomedical AI agents, aiming to facilitate research and development in this rapidly evolving field.
 
 
-1. **[Empowering biomedical discovery with ai agents.](https://www.cell.com/cell/fulltext/S0092-8674(24)01234-X)**  
+1. **[Empowering biomedical discovery with ai agents.](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5)**  
     *Shanghua Gao, Ada Fang, Yepeng Huang, Valentina Giunchiglia, Ayush Noori, Jonathan Richard Schwarz, Yasha Ektefaie, Jovana Kondic, Marinka Zitnik.* Cell'24
 
-2. **[Scientific discovery in the age of artificial intelligence.](https://www.nature.com/articles/s41586-023-04217-0)**  
+2. **[Scientific discovery in the age of artificial intelligence.](https://www.nature.com/articles/s41586-023-06221-2)**  
     *Hanchen Wang, Tianfan Fu, Yuanqi Du, Wenhao Gao, Kexin Huang, Ziming Liu, Payal Chandak, Shengchao Liu, Peter Van Katwyk, Andreea Deac, et al.* Nature'23
 
 3. **[The ai scientist: Towards fully automated open-ended scientific discovery.](https://arxiv.org/abs/2408.06292)**  
@@ -65,7 +65,7 @@ The emergence of AI agents in biomedical research marks a significant paradigm s
 20. **[MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance.](https://arxiv.org/abs/2408.01869)**  
     *Jihye Choi, Nils Palumbo, Prasad Chalasani, Matthew M. Engelhard, Somesh Jha, Anivarya Kumar, David Page.* Preprint'24
 
-21. **[Evaluating large language models as agents in the clinic.](https://www.nature.com/articles/s41591-024-04447-0)**  
+21. **[Evaluating large language models as agents in the clinic.](https://www.nature.com/articles/s41746-024-01083-y)**  
     *Nikita Mehandru, Brenda Y. Miao, Eduardo Rodriguez Almaraz, Madhumita Sushil, Atul J. Butte, Ahmed Alaa.* NPJ Digital Medicine'24
 
 22. **[GPT-4 as a biomedical simulator.](https://www.sciencedirect.com/science/article/pii/S0010482524000932)**  
