@@ -1,4 +1,4 @@
-# Awesome AI Agents for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome LLM Agents for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div align="center">
   <img src="agents4science.webp" alt="AI Agents for Scientific Discovery" width="600px">
 </div>
