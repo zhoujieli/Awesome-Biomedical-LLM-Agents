@@ -193,3 +193,93 @@ A curated list of papers about AI agents for scientific discovery and research a
 - **[Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/abs/2402.01680)**  
   *Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, et al.
 
+## Surveys & Reviews (Continued)
+
+### General Surveys
+- **[The rise and potential of large language model based agents: A survey](https://arxiv.org/abs/2309.07864)**  
+  *Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, et al.* arXiv 2023
+
+- **[Exploring large language model based intelligent agents: Definitions, methods, and prospects](https://arxiv.org/abs/2401.03428)**  
+  *Yuheng Cheng, Ceyao Zhang, Zhengwen Zhang, Xiangrui Meng, et al.* arXiv 2024
+
+- **[A Survey on the Memory Mechanism of Large Language Model Based Agents](https://arxiv.org/abs/2404.13501)**  
+  *Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, et al.* arXiv 2024
+
+### Domain-Specific Surveys
+- **[Large Language Models in Healthcare: Applications and Perspectives](https://arxiv.org/abs/2311.01918)**  
+  *Mingze Yuan, Peng Bao, Jiajia Yuan, Yunhao Shen, et al.* arXiv 2023
+
+- **[A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](https://arxiv.org/abs/2406.03712)**  
+  *Lei Liu, Xiaoyan Yang, Junchi Lei, Xiaoyang Liu, et al.* arXiv 2024
+
+- **[AI for Biomedicine in the Era of Large Language Models](https://arxiv.org/abs/2403.15673)**  
+  *Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, et al.* arXiv 2024
+
+- **[From LLMs to LLM-based Agents for Software Engineering: A Survey](https://arxiv.org/abs/2408.02479)**  
+  *Haolin Jin, Linghan Huang, Haipeng Cai, Jun Yan, et al.* arXiv 2024
+
+### Literature Reviews
+- **[Leveraging Large Language Models for Enhancing Literature-Based Discovery](https://www.mdpi.com/2504-2289/8/11/146)**  
+  *Ikbal Taleb, Alramzana Nujum Navaz, Mohamed Adel Serhani.* Big Data and Cognitive Computing 2024
+
+## Domain Applications (Continued)
+
+### Healthcare & Medicine (Continued)
+
+#### Clinical Applications
+- **[RDguru: A conversational intelligent agent for rare diseases](https://ieeexplore.ieee.org/document/10468546)**  
+  *Jian Yang, Liqi Shu, Huilong Duan, Haomin Li.* IEEE JBHI 2024
+
+- **[Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics](https://arxiv.org/abs/2410.02026)**  
+  *Yuan Zhou, Peng Zhang, Mengya Song, Alice Zheng, et al.* arXiv 2024
+
+- **[GPT-4 as a biomedical simulator](https://www.sciencedirect.com/science/article/pii/S001048252400183X)**  
+  *Moritz Schaefer, Stephan Reichl, Rob Ter Horst, Adele M Nicolas, et al.* Computers in Biology and Medicine 2024
+
+#### Healthcare Systems
+- **[Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957)**  
+  *Junkai Li, Siyu Wang, Meng Zhang, Weitao Li, et al.* arXiv 2024
+
+- **[ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](https://arxiv.org/abs/2406.13890)**  
+  *Weixiang Yan, Haitian Liu, Tengxiao Wu, Qian Chen, et al.* arXiv 2024
+
+- **[AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow](https://arxiv.org/abs/2409.18924)**  
+  *Huizi Yu, Jiayan Zhou, Lingyao Li, Shan Chen, et al.* arXiv 2024
+
+### Biology & Life Sciences (Continued)
+
+#### Tools & Platforms
+- **[BIA: BioInformatics Agent - Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow](https://www.biorxiv.org/content/10.1101/2024.05.22.595240v1)**  
+  *Qi Xin, Quyu Kong, Hongyi Ji, Yue Shen, et al.* bioRxiv 2024
+
+- **[Phenomics Assistant: An Interface for LLM-based Biomedical Knowledge Graph Exploration](https://www.biorxiv.org/content/10.1101/2024.01.31.578275v1)**  
+  *Shawn T O'Neil, Kevin Schaper, Glass Elsarboukh, Justin T Reese, et al.* bioRxiv 2024
+
+- **[Simplifying bioinformatics data analysis through conversation](https://www.biorxiv.org/content/10.1101/2023.10.29.564479v1)**  
+  *Zhengyuan Dong, Han Zhou, Yifan Jiang, Victor Zhong, et al.* bioRxiv 2023
+
+#### Research & Discovery
+- **[Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation](https://arxiv.org/abs/2407.08940)**  
+  *Biqing Qi, Kaiyan Zhang, Kai Tian, Haoxiang Li, et al.* arXiv 2024
+
+- **[Malade: Orchestration of LLM-powered agents with retrieval augmented generation for pharmacovigilance](https://arxiv.org/abs/2408.01869)**  
+  *Jihye Choi, Nils Palumbo, Prasad Chalasani, Matthew M Engelhard, et al.* arXiv 2024
+
+- **[Improved precision oncology question-answering using agentic LLM](https://www.medrxiv.org/content/10.1101/2024.09.20.24314076v1)**  
+  *Rangan Das, K Maheswari, Shaheen Siddiqui, Nikita Arora, et al.* medRxiv 2024
+
+### Software & Tool Development
+
+#### Development & Analysis
+- **[Agentless: Demystifying LLM-based Software Engineering Agents](https://arxiv.org/abs/2407.01489)**  
+  *Chunqiu Steven Xia, Yinlin Deng, Soren Dunn, Lingming Zhang.* arXiv 2024
+
+- **[Intelligent Agents with LLM-based Process Automation](https://dl.acm.org/doi/10.1145/3580305.3599843)**  
+  *Yanchu Guan, Dong Wang, Zhixuan Chu, Shiyu Wang, et al.* KDD 2024
+
+#### Security & Trust
+- **[TrustAgent: Towards Safe and Trustworthy LLM-based Agents through Agent Constitution](https://arxiv.org/abs/2401.05330)**  
+  *Wenyue Hua, Xianjun Yang, Mingyu Jin, Zelong Li, et al.* TiFA 2024
+
+- **[Exploring LLM-based Agents for Root Cause Analysis](https://dl.acm.org/doi/10.1145/3624028.3624067)**  
+  *Devjeet Roy, Xuchao Zhang, Rashi Bhave, Chetan Bansal, et al.* FSE 2024
