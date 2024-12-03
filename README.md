@@ -2,6 +2,22 @@
 
 A curated list of papers about AI agents for scientific discovery and research automation.
 
+
+Maintained by [Jieli Zhou](mailto:zhoujieli@sjtu.edu.cn)
+
+If you use this paper list for your research, please cite it using:
+```bibtex
+@misc{zhou2024awesome,
+  title={Awesome AI Agents for Scientific Discovery},
+  author={Zhou, Jieli},
+  year={2024},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/yourusername/awesome-ai-agents-science}}
+}
+```
+
+
 ## Introduction
 
 The convergence of large language models (LLMs) and autonomous agents has ushered in a new era in scientific discovery, fundamentally transforming how research is conducted across disciplines. This emerging paradigm, articulated in Kitano's seminal "Nobel Turing Challenge" (2021), envisions AI systems capable of making scientific discoveries worthy of Nobel Prize recognition. Recent advances in LLM-based agents have brought us closer to this vision, enabling increasingly sophisticated automation of scientific workflows and decision-making processes.
@@ -245,6 +261,8 @@ Please feel free to send a pull request if you want to:
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 
 
 
