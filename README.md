@@ -13,7 +13,7 @@ If you use this paper list for your research, please cite it using:
   year={2024},
   publisher={GitHub},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/yourusername/awesome-ai-agents-science}}
+  howpublished={\url{https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery}}
 }
 ```
 
