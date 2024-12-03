@@ -1,4 +1,7 @@
 # Awesome AI Agents for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <img src="agents4science.webp" alt="AI Agents for Scientific Discovery" width="600px">
+</div>
 
 A curated list of papers about AI agents for scientific discovery and research automation.
 
